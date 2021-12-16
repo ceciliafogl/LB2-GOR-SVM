@@ -1,2 +1,2 @@
-# LB2-GOR-SVM
-Secondary structure prediction: a comparison between GOR ann SVM
+# Laboratory of Bioinformatics 2
+Secondary structure prediction: a comparison between GOR and SVM
